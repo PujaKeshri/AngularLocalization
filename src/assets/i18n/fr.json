@@ -1,0 +1,10 @@
+{
+    "title" : "Welcome to Localization Demo",
+    "instruction":"Buttons should be Clicked to change language",
+    "placeholder":"Testing Placeholders",
+    "message":"Hi, I'm {{name}}. I am {{designation}}",
+    "lang":{
+        "en":"Angreji",
+        "fr":"Frenchi"
+    }
+}
