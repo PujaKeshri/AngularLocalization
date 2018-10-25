@@ -6,5 +6,7 @@
     "lang":{
         "en":"Angreji",
         "fr":"Frenchi"
-    }
+    },
+    "dashboard":"dashboard works here!",
+    "profile":"profile works here!"
 }
